@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,next,vite&perline=9" alt="Frameworks and Libraries"/>
 </p>
 
-💾 **Databases & ORMs**
+💾  **Databases & ORMs**
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=4" alt="Databases"/>
