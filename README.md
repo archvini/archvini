@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&section=header&reversal=false&textBg=false&fontColor=FF00F&fontSize=58&fontAlign=50&fontAlignY=50&animation=blinking&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+</p>
+
 <h1 align="center">  Oii, eu sou o Vini! 👾
 <p align="center"> -🧑🏼‍💻 Estudante de Programação em Desenvolvimento Web.
 
@@ -37,3 +41,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/archvini/archvini/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/archvini/archvini/output/github-snake.svg" />
 </picture>
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&section=footer&reversal=false&textBg=false&fontColor=FF00F&fontSize=58&fontAlign=50&fontAlignY=50&animation=blinking&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+</p>
