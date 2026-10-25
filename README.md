@@ -6,7 +6,7 @@
 <p align="center"> -🧑🏼‍💻 Estudante de Programação em Desenvolvimento Web.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java&perline=7" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java&perline=7" alt="Programming Languages"/>
 </p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="30" /> Tools & Platforms
 
