@@ -379,7 +379,7 @@ def main():
         with open(os.path.join(out, name), "w", encoding="utf-8") as f:
             f.write(content)
 
-    save("banner.svg", banner(NOME, SUB1, SUB2, TAGLINE, "Feito!"))
+    save("banner.svg", banner(NOME, SUB1, SUB2, TAGLINE, "olá"))
     save("section-sobre.svg", section("Sobre mim"))
     save("section-build.svg", section("O que estou construindo"))
     save("section-stack.svg", section("Stack"))
